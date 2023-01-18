@@ -26,5 +26,5 @@ esta sendo um desafio por ser uma area bem diferente do que eu fazia antes mas s
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-lucca83&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/Gustavo-lucca83/Gustavo-lucca83/blob/output/github-contribution-grid-snake.svg)
+
 
