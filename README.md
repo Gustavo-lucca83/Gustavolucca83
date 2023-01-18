@@ -5,7 +5,11 @@ sou servidor publico e quero mudar de para programação. Conheci essa area por 
 esta sendo um desafio por ser uma area bem diferente do que eu fazia antes mas sei que vou conseguir.
 
 
+<div>
 
+<a href = "gustavolucca92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luis-gustavolucca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <div  align="center">
 <div style="display: inline_block">
