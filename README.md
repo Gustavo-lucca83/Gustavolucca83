@@ -19,12 +19,10 @@ esta sendo um desafio por ser uma area bem diferente do que eu fazia antes mas s
    </div
    <img src="https://github-profile-trophy.vercel.app/?username=Gustavo-lucca83&theme=dracula&row=2&no-bg=true&column=3&margin-w=15margin-h=15"/>
  <hr>
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gustavo-lucca83&bg_color=000000&color=fdf7f7&line=00eb1b&point=e9fa00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-<a href="https://github.com/Gustavo-lucca83">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-lucca83&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-lucca83&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 
 
